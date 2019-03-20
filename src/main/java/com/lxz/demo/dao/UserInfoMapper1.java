@@ -14,3 +14,4 @@ public interface UserInfoMapper1 {
 
 	public void insertUserInfo(UserInfo userInfo);
 }
+
